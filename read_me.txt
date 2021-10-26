@@ -5,6 +5,7 @@
  * Programming Language Used:  C
  *    Operating System of PC: Windows 10(program was compiled and run on Ubuntu 20.04 LTS(app in microsoft store))
  *       	    Roll no.:  200101054
+ *		credits : https://github.com/ashly13/Mini-Shell
  *******************************************************************/
 
 When a command is typed into mini shell, it first looks for the command in the list of built-ins that it maintains. 
